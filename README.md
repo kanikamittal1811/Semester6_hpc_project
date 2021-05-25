@@ -12,10 +12,10 @@ For this multiprocessing was used and the results were:-
 
 ![Results](https://github.com/kanikamittal1811/Semester6_hpc_project/blob/main/results.jpeg)
 
-Kanika Mittal github://kanikamittal1811
+Kanika Mittal [![Website Badge](https://img.shields.io/badge/-kanika.github-teal?style=flat-square&url=https://github.com/kanikamittal1811)](https://github.com/kanikamittal1811)
 
-Priyanka Mehta github://mehtapriyanka123
+Priyanka Mehta [![Website Badge](https://img.shields.io/badge/-priyanka.github-teal?style=flat-square&url=https://github.com/mehtapriyanka123)](https://github.com/mehtapriyanka123)
 
-Pradyumn Jain github://pradyumnjain
+Pradyumn Jain [![Website Badge](https://img.shields.io/badge/-pradyumn.github-teal?style=flat-square&url=https://github.com/pradyumnjain)](https://github.com/pradyumnjain)
 
-Yash Bansal github://yashbansal203001
+Yash Bansal [![Website Badge](https://img.shields.io/badge/-yash.github-teal?style=flat-square&url=https://github.com/yashbansal203001)](https://github.com/yashbansal203001)
