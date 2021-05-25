@@ -10,7 +10,7 @@ make the computation time less?
 ### SOLUTION:
 For this multiprocessing was used and the results were:-
 
-
+![Results](https://github.com/kanikamittal1811/Semester6_hpc_project/blob/main/results.jpeg)
 
 Kanika Mittal github://kanikamittal1811
 
